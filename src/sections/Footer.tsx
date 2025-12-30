@@ -1,5 +1,3 @@
-import { Heart } from 'lucide-react'
-
 const Footer = () => (
   <footer className="py-8 border-t border-border">
     <div className="container mx-auto px-4 text-center">
