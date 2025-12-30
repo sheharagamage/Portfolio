@@ -12,7 +12,7 @@ import Footer from '../sections/Footer'
 const Index = () => (
   <>
     <Helmet>
-      <title>Shehara Gamage | Associate Software Engineer Portfolio</title>
+      <title>Shehara Gamage | Intern Software Engineer Portfolio</title>
       <meta
         name="description"
         content="Shehara Gamage - Third-year Computer Science undergraduate and Associate Software Engineer specializing in full-stack development, React.js, Flutter, and emerging technologies."
