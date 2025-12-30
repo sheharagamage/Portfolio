@@ -16,7 +16,7 @@ const HeroSection = () => (
           <motion.h1 initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }} className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
             Hello, I'm <span className="gradient-text">Shehara Gamage</span>
             <br />
-            <span className="text-foreground">Associate Software Engineer</span>
+            <span className="text-foreground">Intern Software Engineer</span>
           </motion.h1>
           <motion.p initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.4 }} className="text-lg text-muted-foreground mb-8 max-w-lg">
             Third-year Computer Science undergraduate passionate about full-stack development, mobile apps, and emerging technologies. Building impactful real-world solutions.

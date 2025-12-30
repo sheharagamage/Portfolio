@@ -15,7 +15,7 @@ const Index = () => (
       <title>Shehara Gamage | Intern Software Engineer Portfolio</title>
       <meta
         name="description"
-        content="Shehara Gamage - Third-year Computer Science undergraduate and Associate Software Engineer specializing in full-stack development, React.js, Flutter, and emerging technologies."
+        content="Shehara Gamage - Third-year Computer Science undergraduate and Intern Software Engineer specializing in full-stack development, React.js, Flutter, and emerging technologies."
       />
       <meta
         name="keywords"
