@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Globe, Server, Smartphone, Database, Code, Layers } from 'lucide-react'
+import { Globe, Server, Database, Code, Layers } from 'lucide-react'
 
 const services = [
   { icon: Globe, title: 'Full-Stack Web Development', description: 'End-to-end web applications with modern frameworks, responsive design, and scalable architecture.' },
